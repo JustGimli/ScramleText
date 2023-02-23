@@ -2,4 +2,9 @@
 this is example of scramle text animation
 
 <h4>Example</h4>
-https://user-images.githubusercontent.com/95907627/220940356-41ab40a9-a613-431e-9a88-575061820cc7.webm
+
+
+
+
+https://user-images.githubusercontent.com/95907627/220941289-6ca377f2-71fd-4f58-b0ae-5ad57a4299a2.mp4
+
